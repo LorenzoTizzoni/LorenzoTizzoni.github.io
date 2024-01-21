@@ -1,8 +1,8 @@
 html {
-    font-family: 'Source Sans Pro', fantasy;
+    font-family: 'Source Sans Pro', 'fantasy';
     font-size: larger;
     font-weight: 300;
-    background-color:lightcyan;
+    background-color:LightCyan;
 }
 
 a {
