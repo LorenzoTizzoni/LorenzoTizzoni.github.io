@@ -1,13 +1,13 @@
 html {
     font-family: 'fantasy', 'fantasy';
     font-size: larger;
-    font-weight: 300;
+    font-weight: 310;
     background-color:LightCyan;
 }
 
 a {
     text-decoration: none;
-    color: #1565c0;
+    color: #000000;
 }
 
 a:hover {
